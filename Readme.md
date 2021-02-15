@@ -16,12 +16,6 @@ Folder Description:-
 4)computer/saved_model :- In this folder "saved_model" which have a neural network trained model which is use for self driving in action.
 5)computer/training_data :- In this folder "training_data" which have a collected training data with extion of .npz files.
 
-
-Full Self Driving:-
-Step For Fully Self Driving
-1)run "rc.py" file in computer 
-2)run "launch.py" in raspberry Pi 
-
 For Collecting Data:-
 Step For Collecting Data
 1)run "collect_training_data.py" in computer
@@ -31,3 +25,8 @@ For Neural Network Model Training:-
 Step For Model Training
 1)run Run "model_training.py" to train a neural network model.
 After training, model will be saved into newly created folder in save_model
+
+Full Self Driving:-
+Step For Fully Self Driving
+1)run "rc.py" file in computer 
+2)run "launch.py" in raspberry Pi 
