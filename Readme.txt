@@ -26,7 +26,7 @@ Step For Model Training
 1)run Run "model_training.py" to train a neural network model.
 After training, model will be saved into newly created folder in save_model
 
-Full Self Driving:-
+Fully Self Driving:-
 Step For Fully Self Driving
 1)run "rc.py" file in computer 
 2)run "launch.py" in raspberry Pi 
